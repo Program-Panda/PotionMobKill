@@ -9,7 +9,7 @@ The plugin is designed to add potion effects to mob kills when a player kills a 
 
 > Commands:
 /potionmobs reload - Reload the config
-/potionmobs mob <EntityType> <PotionEffectType> <Duration Of Effect> <Likelyhood of getting it (1-100)> - Add a potion effect to a entity
+<br />/potionmobs mob <EntityType> <PotionEffectType> <Duration Of Effect> <Likelyhood of getting it (1-100)> - Add a potion effect to a entity
 /potionmobs mob remove <EntityType> - Remove all potion effects for a entity
 /potionmobs mob <EntityType> remove <PotionEffectType> - Remove a spefic potion effect from a entity
 
