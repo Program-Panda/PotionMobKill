@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PotionMobKill:jar">
+    <output-path>$PROJECT_DIR$/../../Megacraft V2/plugins</output-path>
+    <root id="archive" name="PotionMobKill.jar">
+      <element id="module-output" name="PotionMobKill" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+name: PotionMobKill
+version: 1.0
+main: com.programpanda.potionmobkill.PotionMobKill
+author: Program Panda
+api-version: 1.13
+commands:
+  potionmobs:
+    description: Main Command For The Plugin!
+permission:
+  potionmobs.admin:
+    description: Player can use the commands!
+    default: op
