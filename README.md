@@ -17,10 +17,10 @@ The plugin is designed to add potion effects to mob kills when a player kills a 
 <br />potionmobs.admin - Give users access to all commands
 
 > Node Defintion:
- <br /><EntityType> - [Spigot Entity](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html)
- <br /><PotionEffectType> - [Spigot Potion Effect Type](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/potion/PotionEffectType.html)
- <br /><Duration Of Effect> - how long the potion effect will last upon getting the effect
- <br /><Likelyhood of getting it (1-100)> - 1% to 100% likely to get the effect upon death of the entity.
+ <br /> EntityType - [Spigot Entity](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html)
+ <br /> PotionEffectType - [Spigot Potion Effect Type](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/potion/PotionEffectType.html)
+ <br /> Duration Of Effect - how long the potion effect will last upon getting the effect
+ <br /> Likelyhood of getting it (1-100) - 1% to 100% likely to get the effect upon death of the entity.
 
 ## Video
 
